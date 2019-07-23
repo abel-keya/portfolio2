@@ -1,5 +1,5 @@
 h1 {
-    color: rgb(0, 0, 0);
+    color: rgb(219, 59, 107);
     margin-left: 350px;
     font-size: 90px;
     padding-top: 200px;
@@ -19,7 +19,7 @@ header {
 } 
 .p{
     margin-left: 470px;
-    color: black;
+  
    
     font-size: 40px;
    
@@ -27,6 +27,7 @@ header {
    
     font-weight: 5;
     padding-top: 50px;
+    color: rgb(219, 59, 107);
 
 }
 .line{
@@ -52,11 +53,12 @@ footer{
     background-position: center;
 }
 strong{
+    color: rgb(219, 59, 107);
     font-weight: 25;
     margin-left: 500px;
     font-size: 35px;
     margin-top: 150px;
-    margin-top: 70px;
+    margin-top: 200px;
     font-family: 'Calligraffitti', cursive;
 }
 p{
@@ -73,4 +75,6 @@ p{
    
 
 }
-
+.nav-link{
+    color: rgb(219, 59, 107); 
+}
